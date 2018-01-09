@@ -1,4 +1,10 @@
 # hello-world
+# <<<<<<< readme-edits
+# Introduction to Github
+# Matthew Chavez
+# 25 years old
+# Math major
+=======
 # Introduction to Github
 #
 # int[] arr = { 1, 5, -39, 23, 84};
@@ -11,3 +17,4 @@
 #    }
 #   arr[i] = newElement;
 #  }
+# >>>>>>> master
